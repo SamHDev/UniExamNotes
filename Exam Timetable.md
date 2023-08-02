@@ -14,5 +14,8 @@
 - [COMP5590](<Software Development (COMP5590)/1. Intro>)
 - [COMP5570](<Computer Systems (COMP5570)/1. Intro>)
 - [COMP5180](<Algorithms, Correctness and Efficiency (COMP5180)/1. Data Structures>)
-
-
+- [COMP5280](<Artificial Intelligence (COMP5280)/1. Intro>)
+- [COMP5450](<Functional Programming (COMP5450)/1. Intro>)
+- [COMP5580](<Cyber Security (COMP5580)/1. Intro>)
+- [COMP5320](<Database Systems (COMP5320)/1. Intro>)
+- [THEORY RESIT](<Theory Resit/1. Logic Bollocks>)
